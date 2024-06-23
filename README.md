@@ -3,4 +3,4 @@ parametric-automated audio remix utility
 
 HOSTED through
 
-https://wwww.s2stoo.com
+https://www.s2stoo.com
